@@ -1,4 +1,4 @@
-# My AI and Machine Learning Joutney
+# My AI and Machine Learning Journey
 
 In this repository, I will be following and logging my AI and Machine Learning journey. This will include:
 - Resources such as:

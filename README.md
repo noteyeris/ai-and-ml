@@ -6,7 +6,7 @@ In this repository, I will be following and logging my AI and Machine Learning j
   - Websites
   - Books
   - Etc...
-- A log of everything I learned, day by day. And how I am planning to continue
+- A log of everything I learned, day by day. As well as how I am planning to continue (maybe)
 
 I will be creating separate repositories for every project I decide to take on.
 

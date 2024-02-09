@@ -10,7 +10,7 @@ In this repository, I will be following and logging my AI and Machine Learning j
 
 I will be creating separate repositories for every project I decide to take on.
 
-## Books:
+## Books
 - Machine Learning with PyTorch and Scikit-Learn, Sebastian Raschka
 - An Introduction to Neural Networks, Kevin Gurney
 - Neural Networks from Scratch in Python, Harrison Kinsley
